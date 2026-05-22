@@ -36,7 +36,7 @@ ESPHome-Konfiguration für den **Offgridtec® PSI Sinus-Spannungswandler** (2000
   - DC/AC-Spannung, Ausgangsleistung
   - Akkustand und Solar-Leistung aus HA
   - Fehlermeldungen bei Modbus- oder WR-Fehler
-  - Boot-Splash „Powered by Pogrzeba"
+  - Boot-Splash „Powered by WtalPepi1985"
 - **WS2812B Status-LEDs** (8 LEDs)
   - Grün rotierend = WR aktiv
   - Blau = Standby
