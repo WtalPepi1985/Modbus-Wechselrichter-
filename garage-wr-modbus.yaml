@@ -398,7 +398,7 @@ display:
     lambda: |-
       if (id(boot_splash)) {
         it.printf(64, 18, id(font_small), TextAlign::CENTER, "Powered by");
-        it.printf(64, 38, id(font_big),   TextAlign::CENTER, "Pogrzeba");
+        it.printf(64, 38, id(font_big),   TextAlign::CENTER, "WtalPepi1985");
         return;
       }
 
